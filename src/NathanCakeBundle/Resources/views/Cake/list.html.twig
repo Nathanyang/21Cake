@@ -1,0 +1,86 @@
+{% extends "NathanCakeBundle::layout.html.twig" %}
+
+{% block myCss %}
+    <link rel="stylesheet" href="{{ asset("bundles/nathancake/") }}css/list/index.css?v=1">
+{% endblock %}
+{% block  container %}
+    <div class="inner-wrap">
+        <ol class="breadcrumb">
+            <li><a href="/">首页</a></li>
+            <li class="active">蛋糕名录</li>
+        </ol>
+
+        <div class="filter-container">
+            <div id="filter_lists" class="filter-lists-container">
+                <div id="filter_lists">
+                    <dl data-label="p_5" class="filter-entries clearfix">
+                        <dt class="filter-entries-label">蛋糕分类：</dt>
+                        <dd class="filter-entries-values">
+                            <!--列表页多语言-->
+                            <span class="filter-item active"><a class="handle action-select-unlimit" href="javascript:void(0);">不限</a></span>
+                            <span data-fid="p_5-39" class="filter-item "><a class="handle action-select-filter" href="javascript:void(0);">乳脂奶油蛋糕</a></span>
+                            <span data-fid="p_5-40" class="filter-item "><a class="handle action-select-filter" href="javascript:void(0);">慕斯蛋糕</a></span>
+                            <span data-fid="p_5-41" class="filter-item "><a class="handle action-select-filter" href="javascript:void(0);">乳酪蛋糕</a></span>
+                            <span data-fid="p_5-42" class="filter-item "><a class="handle action-select-filter" href="javascript:void(0);">巧克力蛋糕</a></span>
+                            <span data-fid="p_5-44" class="filter-item "><a class="handle action-select-filter" href="javascript:void(0);">冰淇淋蛋糕</a></span>
+                            <span data-fid="p_5-45" class="filter-item "><a class="handle action-select-filter" href="javascript:void(0);">手工巧克力</a></span>
+                        </dd>
+                    </dl>
+                </div>
+            </div>
+        </div>
+
+        <div class="gallery-show">
+            <div class="gallery-list">
+                <ul>
+                    <li class="goods-item clearfix">
+                        <div class="goods-pic">
+                            <a href="/product-699.html"><img alt="forget Tiramisu 新馬斯卡彭-咖啡軟芝士蛋糕" class="action-goods-img" src="http://www.21cake.com/public/images/c6/ce/be/5738b8a1019b8a875c9a1a2b78f6d00b.jpg?1423189209#h"></a>
+                        </div>
+
+                        <div class="goods-action">
+                            <div class="goods-buy">
+                                <div>
+                                    <a id="IDgalleryview699" href="/product-699.html" class="btn btn-major action-view"><span><span>查看详情</span></span></a>
+                                </div>
+                                <!-- 加入购物车 -->
+                                <a target="_dialog_minicart" href="/cart-add-goods-24-699-1.html" id="IDgalleryaddtocart699" class="btn btn-major action-addtocart"><span><span>加入购物车</span></span></a>
+                            </div>
+                            <div class="goods-others">
+                                <a class="btn btn-simple" href="/passport-login.html"><span><span>收藏</span></span></a>
+                                <button data-compare="{type_id:&quot;3&quot;,goods_id:&quot;24&quot;,img:&quot;http://www.21cake.com/public/images/c6/ce/be/5738b8a1019b8a875c9a1a2b78f6d00b.jpg?1423189209#h&quot;,name:&quot;forget Tiramisu 新馬斯卡彭-咖啡軟芝士蛋糕&quot;,price:&quot;￥390.0&quot;}" class="btn btn-simple action-compare" type="button">
+                                    <span><span>对比</span></span></button>
+                            </div>
+                        </div>
+
+                        <div class="goods-price">
+                            <ul>
+                                <li class="listgoodprice-21cake">
+                                    <label for=""></label>
+                                    <span class="smallrmb color4919">¥</span><b class="price">390.0</b>
+                                    <b>/1.0磅</b>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div class="goods-info">
+                            <h3 class="goods-name">
+                                <a href="/product-699.html">forget Tiramisu 新馬斯卡彭-咖啡軟芝士蛋糕</a>
+                            </h3>
+
+                            <div class="goods-desc">/多孔蛋糕坯，深深沉浸墨西哥咖啡甘露/<br>
+                                /加杯咖啡，忘记提拉米苏/<br>
+                                A perforated cake base, soaked in Mexican coffee syrup.
+                                Now，forget Tiramisu... </div>
+                            <div class="goods-comment">
+                                <!--
+                                暂无评论                        -->
+                            </div>
+                        </div>
+
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+{% endblock %}

@@ -2,8 +2,8 @@
 /**
  * Created by PhpStorm.
  * User: NathanY
- * Date: 2015/3/7
- * Time: 20:29
+ * Date: 2015/3/8
+ * Time: 17:18
  */
 
 namespace NathanCakeBundle\Controller;
@@ -12,25 +12,27 @@ use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Template;
 
-
 /**
- * Class HomeController
- * @Route("/")
+ * Class AdminController
+ * @Route("/admin")
  */
-class CakeController {
+class AdminController extends Controller {
+
     /**
-     * @Route("/", name="Home-Page")
+     * @Route("/list", name="admin-list")
      * @Template()
      */
     public function indexAction(){
         return array();
     }
-
     /**
-     * @Route("/gallery")
+     * @Route("/", name="admin-login")
+     * Template("NathanCakeBundle:Admin:login.html.twig")
      * @Template()
      */
-    public function listAction(){
+    public function loginAction(){
         return array();
     }
+
+
 }
