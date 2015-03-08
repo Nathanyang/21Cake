@@ -17,7 +17,7 @@ use Sensio\Bundle\FrameworkExtraBundle\Configuration\Template;
  * Class HomeController
  * @Route("/")
  */
-class HomeController {
+class CakeController {
     /**
      * @Route("/", name="HomePage")
      * @Template()
