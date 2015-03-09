@@ -1,0 +1,197 @@
+@charset "utf-8";
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, dl, dd, fieldset, form, input, select, textarea, figure {
+    margin: 0;
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: #8e6a55;
+    font-family: "微软雅黑" !important;
+    font-size: 12px;
+}
+
+.jumbotron {
+    padding: 80px 0 48px 0;
+    background: #fff;
+}
+ul, li, ol, dl {
+    list-style: outside none none;
+}
+.head-area{
+    padding: 0 65px;
+}
+
+.head-area .navbar-header{
+    height: 78px;
+}
+
+.logo {
+    display: block;
+    margin: 0 20px 0 0px;
+}
+
+.area-check {
+    left: 285px;
+    position: absolute;
+    top: 16px;
+    z-index: 99999;
+}
+.area-now {
+    background: url("../images/area_bg.jpg") no-repeat;
+    color: #fff;
+    cursor: pointer;
+    height: 20px;
+    line-height: 20px;
+    text-indent: 10px;
+    width: 60px;
+}
+
+.area-check-container {
+    background:  #fff;
+    border: 1px solid #a7846a;
+    box-shadow: 0 0 5px #a7846a;
+    height: auto;
+    margin-top: 4px;
+    width: 252px;
+}
+.area-check-tip {
+    color: #8e6a55;
+    padding: 10px 10px 6px 22px;
+}
+.area-list {
+    overflow: hidden;
+    padding: 0 6px 6px;
+}
+.area-item {
+    color: #8e6a55;
+    cursor: default;
+    display: block;
+    float: left;
+    height: 24px;
+    line-height: 24px;
+    text-align: center;
+    width: 60px;
+}
+.area-item:hover, .ai-hover {
+    background: #ebe1df;
+}
+
+.navbar-inverse{
+    border-bottom: 2px solid #e8e3dd;
+    background: #fff;
+}
+
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: #e0e0e0;
+}
+
+.fl-r {
+    float: right;
+}
+
+.fl-l {
+    float: left;
+}
+
+.head-nav {
+    padding-top: 46px;
+}
+
+.head-nav a {
+    color: #8e6a55;
+    display: inline-block;
+    font-size: 12px;
+    padding: 0 16px;
+}
+
+.head-nav li {
+    background: url("../images/menubg.jpg") no-repeat right 5px;
+    float: left;
+    line-height: 20px;
+    text-align: center;
+}
+
+.head-nav li.last {
+    background: none;
+}
+
+
+.navbar-inverse .navbar-collapse,
+.navbar-inverse .navbar-form{
+    border-color: #e8e3dd;
+}
+
+.shop-car {
+    background: url("../images/shopcar.png") no-repeat;
+    height: 20px;
+    margin-left: 10px;
+    overflow: hidden;
+
+    padding-left: 26px !important;
+}
+
+.footer {
+    border-top: 1px solid #491903;
+    color: #8e6a55;
+    line-height: 1.5;
+    margin-top: 20px;
+    padding: 10px 20px;
+}
+.footer a {
+    color: #8e6a55;
+}
+
+.foot-link .foot-line {
+    float: left;
+}
+
+.foot-link a {
+    float: left;
+    height: 16px;
+    padding: 0 6px;
+}
+
+
+.copyright {
+    color: #c5b4a8;
+}
+
+.weibo, .weixin {
+    display: inline-block;
+    height: 32px;
+    margin-top: -6px;
+    vertical-align: top;
+}
+.weibo, .weixin {
+    height: auto;
+    position: relative;
+}
+
+.third-enter-dia {
+    background: url("../images/touming.png") repeat;
+    bottom: 40px;
+    cursor: pointer;
+    display: none;
+    left: -54px;
+    padding: 4px;
+    position: absolute;
+    z-index: 10;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

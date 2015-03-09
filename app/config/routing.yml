@@ -1,8 +1,5 @@
-nathan_cake:
-    resource: "@NathanCakeBundle/Controller/"
+app:
+    resource: "@AppBundle/Controller/"
     type:     annotation
     prefix:   /
 
-app:
-    resource: @AppBundle/Controller/
-    type:     annotation
