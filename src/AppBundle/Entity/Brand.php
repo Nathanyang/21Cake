@@ -6,13 +6,13 @@
  * Time: 15:02
  */
 
-namespace NathanCakeBundle\Entity;
+namespace AppBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
 
 /**
  * Class Brand
- * @ORM\Entity(repositoryClass="NathanCakeBundle\Repository\BrandRepository")
+ * @ORM\Entity(repositoryClass="AppBundle\Repository\BrandRepository")
  * @ORM\Table(name="brand")
  */
 class Brand {
@@ -32,4 +32,60 @@ class Brand {
      * @ORM\Column(type="string", length=10)
      */
     protected $name;
+
+    /**
+     * Get id
+     *
+     * @return integer 
+     */
+    public function getId()
+    {
+        return $this->id;
+    }
+
+    /**
+     * Set code
+     *
+     * @param string $code
+     * @return Brand
+     */
+    public function setCode($code)
+    {
+        $this->code = $code;
+
+        return $this;
+    }
+
+    /**
+     * Get code
+     *
+     * @return string 
+     */
+    public function getCode()
+    {
+        return $this->code;
+    }
+
+    /**
+     * Set name
+     *
+     * @param string $name
+     * @return Brand
+     */
+    public function setName($name)
+    {
+        $this->name = $name;
+
+        return $this;
+    }
+
+    /**
+     * Get name
+     *
+     * @return string 
+     */
+    public function getName()
+    {
+        return $this->name;
+    }
 }

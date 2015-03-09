@@ -6,13 +6,13 @@
  * Time: 15:15
  */
 
-namespace NathanCakeBundle\Entity;
+namespace AppBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
 
 /**
  * Class PreservationCondition
- * @ORM\Entity(repositoryClass="NathanCakeBundle\Repository\PreservationConditionRepository")
+ * @ORM\Entity(repositoryClass="AppBundle\Repository\PreservationConditionRepository")
  * @ORM\Table(name="preservationcondition")
  */
 class PreservationCondition {
@@ -32,4 +32,60 @@ class PreservationCondition {
      * @ORM\Column(type="string")
      */
     protected $name;
+
+    /**
+     * Get id
+     *
+     * @return integer 
+     */
+    public function getId()
+    {
+        return $this->id;
+    }
+
+    /**
+     * Set code
+     *
+     * @param string $code
+     * @return PreservationCondition
+     */
+    public function setCode($code)
+    {
+        $this->code = $code;
+
+        return $this;
+    }
+
+    /**
+     * Get code
+     *
+     * @return string 
+     */
+    public function getCode()
+    {
+        return $this->code;
+    }
+
+    /**
+     * Set name
+     *
+     * @param string $name
+     * @return PreservationCondition
+     */
+    public function setName($name)
+    {
+        $this->name = $name;
+
+        return $this;
+    }
+
+    /**
+     * Get name
+     *
+     * @return string 
+     */
+    public function getName()
+    {
+        return $this->name;
+    }
 }

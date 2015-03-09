@@ -6,13 +6,13 @@
  * Time: 14:52
  */
 
-namespace NathanCakeBundle\Entity;
+namespace AppBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
 
 /**
  * Class Crowd
- * @ORM\Entity(repositoryClass="NathanCakeBundle\Repository\CrowdRepository")
+ * @ORM\Entity(repositoryClass="AppBundle\Repository\CrowdRepository")
  * @ORM\Table(name="crowd")
  */
 class Crowd {
@@ -32,4 +32,60 @@ class Crowd {
      * @ORM\Column(type="string")
      */
     protected $name;
+
+    /**
+     * Get id
+     *
+     * @return integer 
+     */
+    public function getId()
+    {
+        return $this->id;
+    }
+
+    /**
+     * Set code
+     *
+     * @param string $code
+     * @return Crowd
+     */
+    public function setCode($code)
+    {
+        $this->code = $code;
+
+        return $this;
+    }
+
+    /**
+     * Get code
+     *
+     * @return string 
+     */
+    public function getCode()
+    {
+        return $this->code;
+    }
+
+    /**
+     * Set name
+     *
+     * @param string $name
+     * @return Crowd
+     */
+    public function setName($name)
+    {
+        $this->name = $name;
+
+        return $this;
+    }
+
+    /**
+     * Get name
+     *
+     * @return string 
+     */
+    public function getName()
+    {
+        return $this->name;
+    }
 }
