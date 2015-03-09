@@ -1,23 +1,17 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: NathanY
- * Date: 2015/3/7
- * Time: 20:29
- */
 
-namespace NathanCakeBundle\Controller;
+namespace AppBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Template;
 
-
 /**
  * Class HomeController
  * @Route("/")
  */
-class CakeController {
+class AppController extends Controller
+{
     /**
      * @Route("/", name="Home-Page")
      * @Template()
@@ -27,7 +21,7 @@ class CakeController {
     }
 
     /**
-     * @Route("/gallery")
+     * @Route("/gallery", name="Cake-list")
      * @Template()
      */
     public function listAction(){
