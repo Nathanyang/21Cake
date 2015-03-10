@@ -6,7 +6,7 @@ use Symfony\Component\Form\AbstractType;
 use Symfony\Component\Form\FormBuilderInterface;
 use Symfony\Component\OptionsResolver\OptionsResolverInterface;
 
-class CakeType extends AbstractType
+class GenreType extends AbstractType
 {
     /**
      * @param FormBuilderInterface $builder
@@ -15,10 +15,8 @@ class CakeType extends AbstractType
     public function buildForm(FormBuilderInterface $builder, array $options)
     {
         $builder
-            ->add('name', "text", array('required'=>true))
-            ->add('remind',"textarea")
-            ->add('profile_en', "textarea")
-            ->add('profile_cn', "textarea")
+            ->add('code', 'text', array('required'=>true))
+            ->add('name', 'text', array('required'=>true))
         ;
     }
     
@@ -28,7 +26,7 @@ class CakeType extends AbstractType
     public function setDefaultOptions(OptionsResolverInterface $resolver)
     {
         $resolver->setDefaults(array(
-            'data_class' => 'AppBundle\Entity\Cake'
+            'data_class' => 'AppBundle\Entity\Genre'
         ));
     }
 
@@ -37,6 +35,6 @@ class CakeType extends AbstractType
      */
     public function getName()
     {
-        return 'appbundle_cake';
+        return 'appbundle_genre';
     }
 }

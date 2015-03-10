@@ -13,14 +13,14 @@ use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Template;
 
 use Symfony\Component\HttpFoundation\Request;
-use AppBundle\Entity\Type;
+use AppBundle\Entity\Genre;
+use AppBundle\Form\GenreType;
 
 /**
  * Class AdminController
  * @Route("/admin/")
- * @Template("")
  */
-class AdminController {
+class AdminController extends Controller {
     /**
      * @Route("list", name="admin-list")
      * @Template()
@@ -44,13 +44,20 @@ class AdminController {
      * @Template("AppBundle:Admin:Type/add.html.twig")
      */
     public function newTypeAction(Request $request){
-        $type = new Type();
+        $type       = new Genre();
+        $form       = $this->createForm( new GenreType(), $type  );
+        if ( $request->getMethod() === 'POST' ) {
+            $form->bind( $request );
+            $em = $this->getDoctrine()->getManager();
 
-        $form = $this->createFormBuilder($type)
-            ->add('name', 'text')
-            ->add('code', 'text')
-            ->add('save', 'submit', array('label' => 'Create Cake Type'))
-            ->getForm();
+            if ( $form->isValid() ) {
+                $type->setCode($request->request->get('code'));
+                $type->setName($request->request->get('name'));
+                $em->persist($type);
+                $em->flush();
+                return $this->redirect( $this->generateUrl('type-list') );
+            }
+        }
 
         return array(
             'form' => $form->createView(),

@@ -169,6 +169,10 @@ Create Bundle
              */atus
 
 
+    13. Form
+         php app/console doctrine:generate:form yourbundle:yourentity
+         然后自动生成form，名字叫yourentityType，当然如果你想要很多form对应一个entity，直接在form里copy paste你之前的form,该名字就可以了
+
 
 
 

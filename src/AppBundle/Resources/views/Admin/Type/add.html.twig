@@ -1,1 +1,24 @@
 {% extends "AppBundle::admin-layout.html.twig" %}
+{% block Content %}
+    {{ form_errors(form) }}
+    {#{{ form_start(form) }}#}
+
+    {#{{ form_widget( form.code ) }}#}
+    {#{{ form_widget( form.name ) }}#}
+
+    {#{{ form_end(form) }}#}
+    <form action="">
+        <ul>
+            {% for child in form %}
+                <li>
+                    {{ form_label(child) }}
+                    {{ form_widget(child) }}
+                </li>
+            {% endfor %}
+            <li><input type="submit" value="Add Now"  class="btn btn-success"/></li>
+        </ul>
+    </form>
+
+
+
+{% endblock %}
