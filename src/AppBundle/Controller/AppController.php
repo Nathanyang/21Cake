@@ -5,6 +5,8 @@ namespace AppBundle\Controller;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Template;
+use Symfony\Component\HttpFoundation\Response;
+
 
 /**
  * Class AppController
@@ -26,6 +28,14 @@ class AppController extends Controller
      * @Template()
      */
     public function listAction(){
+        return array();
+    }
+
+    /**
+     * @Route("detail/{id}")
+     * @Template()
+     */
+    public function detailAction($id){
         return array();
     }
 
