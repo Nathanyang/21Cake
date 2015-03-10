@@ -3,33 +3,30 @@
  * Created by PhpStorm.
  * User: NathanY
  * Date: 2015/3/7
- * Time: 15:02
+ * Time: 14:30
  */
 
 namespace AppBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
-
 /**
- * Class Brand
- * @ORM\Entity(repositoryClass="AppBundle\Repository\BrandRepository")
- * @ORM\Table(name="brand")
+ * Class Type
+ * @ORM\Entity(repositoryClass="AppBundle\Repository\GenreRepository")
+ * @ORM\Table(name="type")
  */
-class Brand {
+class Genre {
     /**
      * @ORM\Id
      * @ORM\Column(type="integer")
      * @ORM\GeneratedValue(strategy="AUTO")
      */
     protected $id;
-
     /**
      * @ORM\Column(type="string", length=10, unique=true)
      */
     protected $code;
-
     /**
-     * @ORM\Column(type="string", length=10)
+     * @ORM\Column(type="string", length=80)
      */
     protected $name;
 
@@ -47,7 +44,7 @@ class Brand {
      * Set code
      *
      * @param string $code
-     * @return Brand
+     * @return Type
      */
     public function setCode($code)
     {
@@ -70,7 +67,7 @@ class Brand {
      * Set name
      *
      * @param string $name
-     * @return Brand
+     * @return Type
      */
     public function setName($name)
     {

@@ -11,10 +11,10 @@ namespace AppBundle\Entity;
 use Doctrine\ORM\Mapping as ORM;
 /**
  * Class Type
- * @ORM\Entity(repositoryClass="AppBundle\Repository\TypeRepository")
+ * @ORM\Entity(repositoryClass="AppBundle\Repository\GenreRepository")
  * @ORM\Table(name="type")
  */
-class Type {
+class Genre {
     /**
      * @ORM\Id
      * @ORM\Column(type="integer")
