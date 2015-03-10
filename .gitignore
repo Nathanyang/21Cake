@@ -11,3 +11,13 @@
 /bin/
 /composer.phar
 /.idea
+
+/src/AdminBundle/
+/src/UserBundle/
+/src/CommentBundle/
+/src/WebBundle/
+
+/app/Resources/AppAdminBundle/
+/app/Resources/translations/
+/app/Resources/views-2/
+/app/Resources/TwigBundle/
