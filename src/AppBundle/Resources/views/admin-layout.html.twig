@@ -633,7 +633,7 @@
 
 <!-- Page content -->
 <div id="content" class="col-md-12">
-    {% block Content %}
+{% block Content %}
 
 
 
@@ -642,7 +642,7 @@
 
 
 
-
+{% block pageheader %}
 <!-- page header -->
 <div class="pageheader">
 
@@ -662,6 +662,7 @@
 
 </div>
 <!-- /page header -->
+{% endblock %}
 
 
 
@@ -670,7 +671,7 @@
 
 <!-- content main container -->
 <div class="main">
-
+{% block mainContain %}
 
 
 <!-- cards -->
@@ -1671,7 +1672,7 @@
 </div>
 <!-- /row -->
 
-
+{% endblock %}
 
 </div>
 <!-- /content container -->

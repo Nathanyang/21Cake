@@ -1,24 +1,52 @@
 {% extends "AppBundle::admin-layout.html.twig" %}
-{% block Content %}
-    {{ form_errors(form) }}
-    {#{{ form_start(form) }}#}
+{% block mainContain %}
+<!-- row -->
+<div class="row">
 
-    {#{{ form_widget( form.code ) }}#}
-    {#{{ form_widget( form.name ) }}#}
-
-    {#{{ form_end(form) }}#}
-    <form action="">
-        <ul>
-            {% for child in form %}
-                <li>
-                    {{ form_label(child) }}
-                    {{ form_widget(child) }}
-                </li>
-            {% endfor %}
-            <li><input type="submit" value="Add Now"  class="btn btn-success"/></li>
-        </ul>
-    </form>
+    <!-- col 12 -->
+    <div class="col-md-6">
 
 
 
+        <!-- tile -->
+        <section class="tile color transparent-black">
+
+
+            <!-- tile header -->
+            <div class="tile-header">
+                <h1><strong>New Cake Type</strong> </h1>
+                <div class="controls">
+                    <a href="#" class="refresh"><i class="fa fa-refresh"></i></a>
+                    <a href="#" class="remove"><i class="fa fa-times"></i></a>
+                </div>
+            </div>
+            <!-- /tile header -->
+
+            <!-- tile body -->
+            <div class="tile-body">
+
+                <form class="form-horizontal" role="form">
+
+                    <div class="form-group">
+                        {{ form_errors(form) }}
+                    </div>
+
+                    {% for child in form %}
+                    <div class="form-group">
+                        {#{{ form_label(child) }}#}
+                        {{ form_label(child, "", {'label_attr': {'class': 'col-sm-3 control-label'}}) }}
+
+                        <div class="col-sm-9">
+                            {{ form_widget(child, {'attr': {'class':'form-control'} }) }}
+                        </div>
+
+                    </div>
+                    {% endfor %}
+                </form>
+
+            </div>
+
+        </section>
+    </div>
+</div>
 {% endblock %}
