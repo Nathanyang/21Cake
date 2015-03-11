@@ -16,6 +16,8 @@ use Symfony\Component\HttpFoundation\Request;
 use AppBundle\Entity\Genre;
 use AppBundle\Form\GenreType;
 
+//use Doctrine\Common\Util\Debug;
+use Symfony\Component\HttpKernel\Debug;
 /**
  * Class AdminController
  * @Route("/admin/")
@@ -46,16 +48,16 @@ class AdminController extends Controller {
     public function newTypeAction(Request $request){
         $type       = new Genre();
         $form       = $this->createForm( new GenreType(), $type  );
-        if ( $request->getMethod() === 'POST' ) {
+        if ( $request->getMethod() == 'POST' ) {
             $form->bind( $request );
             $em = $this->getDoctrine()->getManager();
 
             if ( $form->isValid() ) {
-                $type->setCode($request->request->get('code'));
-                $type->setName($request->request->get('name'));
+                $type->setCode($request->request->get("appbundle_genre")['code']);
+                $type->setName($request->request->get("appbundle_genre")['name']);
                 $em->persist($type);
                 $em->flush();
-                return $this->redirect( $this->generateUrl('type-list') );
+                return $this->redirect( "/admin/type" );
             }
         }
 

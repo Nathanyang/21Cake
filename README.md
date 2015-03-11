@@ -173,6 +173,20 @@ Create Bundle
          php app/console doctrine:generate:form yourbundle:yourentity
          然后自动生成form，名字叫yourentityType，当然如果你想要很多form对应一个entity，直接在form里copy paste你之前的form,该名字就可以了
 
+    14.var_dump()
+        1)
+        use Doctrine\Common\Util\Debug;
+        Debug::dump($form);
+        or
+        Debug:dump($form);
+        2)
+        use Symfony\Component\HttpKernel\Debug;
+        Debug:dump($form);
+
+    15.Get QueryString
+        $request->query->get("$name")
+        Get Post Data
+
 
 
 
