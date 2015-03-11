@@ -2115,12 +2115,12 @@
 <script type="text/javascript" src="{{ asset("bundles/app/admin/") }}js/vendor/videobackground/jquery.videobackground.js"></script>
 <script type="text/javascript" src="{{ asset("bundles/app/admin/") }}js/vendor/blockui/jquery.blockUI.js"></script>
 
-<script src="{{ asset("bundles/app/admin/") }}js/vendor/flot/jquery.flot.min.js"></script>
+<!--script src="{{ asset("bundles/app/admin/") }}js/vendor/flot/jquery.flot.min.js"></script>
 <script src="{{ asset("bundles/app/admin/") }}js/vendor/flot/jquery.flot.time.min.js"></script>
 <script src="{{ asset("bundles/app/admin/") }}js/vendor/flot/jquery.flot.selection.min.js"></script>
 <script src="{{ asset("bundles/app/admin/") }}js/vendor/flot/jquery.flot.animator.min.js"></script>
 <script src="{{ asset("bundles/app/admin/") }}js/vendor/flot/jquery.flot.orderBars.js"></script>
-<script src="{{ asset("bundles/app/admin/") }}js/vendor/easypiechart/jquery.easypiechart.min.js"></script>
+<script src="{{ asset("bundles/app/admin/") }}js/vendor/easypiechart/jquery.easypiechart.min.js"></script-->
 
 <script src="{{ asset("bundles/app/admin/") }}js/vendor/rickshaw/raphael-min.js"></script>
 <script src="{{ asset("bundles/app/admin/") }}js/vendor/rickshaw/d3.v2.js"></script>
@@ -2174,7 +2174,7 @@ $(function(){
         [12, 1320]
     ];
     var months = ["January", "February", "March", "April", "May", "Juny", "July", "August", "September", "October", "November", "December"];
-
+    /*---charts init
     // flot chart generate
     var plot = $.plotAnimator($("#statistics-chart"),
             [
@@ -2259,7 +2259,7 @@ $(function(){
         plot.resize();
         plot.setupGrid();
         plot.draw();
-    });
+    });*/
 
     $('#mmenu').on(
             "opened.mm",
@@ -2307,6 +2307,7 @@ $(function(){
         "z-index":"99999"
     }).appendTo("body");
 
+    /*----charts
     //generate actual pie charts
     $('.pie-chart').easyPieChart();
 
@@ -2372,7 +2373,7 @@ $(function(){
     $('#projectbar4').sparkline('html', {type: 'bar', barColor: '#ffc100', barWidth: 4, height: 20});
     $('#projectbar5').sparkline('html', {type: 'bar', barColor: '#ff4a43', barWidth: 4, height: 20});
     $('#projectbar6').sparkline('html', {type: 'bar', barColor: '#a2d200', barWidth: 4, height: 20});
-
+*/
     // sortable table
     $('.table.table-sortable th.sortable').click(function() {
         var o = $(this).hasClass('sort-asc') ? 'sort-desc' : 'sort-asc';

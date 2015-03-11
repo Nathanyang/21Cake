@@ -50,11 +50,13 @@ class AdminController extends Controller {
         $form       = $this->createForm( new GenreType(), $type  );
         if ( $request->getMethod() == 'POST' ) {
             $form->bind( $request );
+//            Debug:dump($request->request->get('genre'));
+//            exit;
             $em = $this->getDoctrine()->getManager();
 
             if ( $form->isValid() ) {
-                $type->setCode($request->request->get("appbundle_genre")['code']);
-                $type->setName($request->request->get("appbundle_genre")['name']);
+                $type->setCode($request->request->get("genre")['code']);
+                $type->setName($request->request->get("genre")['name']);
                 $em->persist($type);
                 $em->flush();
                 return $this->redirect( "/admin/type" );

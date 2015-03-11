@@ -35,6 +35,6 @@ class GenreType extends AbstractType
      */
     public function getName()
     {
-        return 'appbundle_genre';
+        return 'genre';
     }
 }
