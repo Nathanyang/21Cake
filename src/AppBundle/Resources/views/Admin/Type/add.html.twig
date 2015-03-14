@@ -25,7 +25,8 @@
             <!-- tile body -->
             <div class="tile-body">
 
-                <form class="form-horizontal" role="form" method="post" action="{{ path('add-type') }}" {{ form_enctype(form) }}>
+                {#<form class="form-horizontal" role="form" method="post" action="{{ path('new-type') }}">#}
+                {{ form_start(form, {'attr':{'class':'form-horizontal', 'role':'form'}}) }}
 
                     <div class="form-group">
                         {{ form_errors(form) }}
@@ -46,7 +47,7 @@
                         <label class="col-sm-3 control-label">&nbsp;</label>
                         <div class="col-sm-9"><input value="Add Now" type="submit" class="btn btn-greensea" /></div>
                     </div>
-                </form>
+                {{ form_end(form) }}
             </div>
 
         </section>

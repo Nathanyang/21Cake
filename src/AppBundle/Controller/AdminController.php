@@ -14,6 +14,7 @@ use Sensio\Bundle\FrameworkExtraBundle\Configuration\Template;
 
 use Symfony\Component\HttpFoundation\Request;
 use AppBundle\Entity\Genre;
+use AppBundle\Entity\Crowd;
 use AppBundle\Form\GenreType;
 
 //use Doctrine\Common\Util\Debug;
@@ -42,7 +43,7 @@ class AdminController extends Controller {
 
     /**
      * 添加类型
-     * @Route("type/new", name="add-type")
+     * @Route("type/new", name="new-type")
      * @Template("AppBundle:Admin:Type/add.html.twig")
      */
     public function newTypeAction(Request $request){
@@ -50,19 +51,14 @@ class AdminController extends Controller {
         $form       = $this->createForm( new GenreType(), $type  );
         if ( $request->getMethod() == 'POST' ) {
             $form->bind( $request );
-//            Debug:dump($request->request->get('genre'));
-//            exit;
             $em = $this->getDoctrine()->getManager();
 
             if ( $form->isValid() ) {
-                $type->setCode($request->request->get("genre")['code']);
-                $type->setName($request->request->get("genre")['name']);
                 $em->persist($type);
                 $em->flush();
-                return $this->redirect( "/admin/type" );
+                return $this->redirect( $this->generateUrl('admin-list') );
             }
         }
-
         return array(
             'form' => $form->createView(),
         );
@@ -86,15 +82,34 @@ class AdminController extends Controller {
         return array();
     }
 
-
-
     /**
-     * 添加类型
-     * @Route("crowd/add", name="add-crowd")
+     * 添加适用人群
+     * @Route("crowd/new", name="new-crowd")
      * @Template("AppBundle:Admin:Crowd/add.html.twig")
      */
-    public function addCrowdAction(){
-        return array();
+    public function newCrowdAction(){
+        $crowd = new Crowd();
+
+        $form = $this->createFormBuilder($crowd)
+            ->add('code' , 'text' )
+            ->add('name' , 'text' )
+            ->add('save' , 'submit' , array('label' => 'Add New Crowd' ))
+            ->getForm();
+
+        $request = $this->get('request');
+        if ($request->getMethod() == 'POST') {
+            $form->bind( $request );
+
+            if ($form->isValid()) {
+                $em->persist($crowd);
+                $em->flush();
+                return $this->redirect($this->generateUrl('crowd-list'));
+            }
+        }
+
+        return array(
+            'form' => $form->createView(),
+        );
     }
 
     /**

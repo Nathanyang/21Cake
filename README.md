@@ -173,6 +173,85 @@ Create Bundle
          php app/console doctrine:generate:form yourbundle:yourentity
          然后自动生成form，名字叫yourentityType，当然如果你想要很多form对应一个entity，直接在form里copy paste你之前的form,该名字就可以了
 
+         Controller 中组织form
+         1）
+                $type       = new Genre();
+                $form       = $this->createForm( new GenreType(), $type  );
+                return array(
+                    'form' => $form->createView(),
+                );
+
+         2）
+                $crowd = new Crowd();
+                $form = $this->createFormBuilder($crowd)
+                       ->add('code' , 'text' )
+                       ->add('name' , 'text' )
+                       ->add('save' , 'submit' , array('label' => 'Add New Crowd' ))
+                       ->getForm();
+
+         submit Form
+         $request = $this->get('request');
+                 if ($request->getMethod() == 'POST') {
+                     $form->bind( $request ); ---->当前步骤会把表单数据绑定到entity对象
+                     Debug:dump($crowd);----->发现已经存在数据
+                     if ($form->isValid()) {
+                         $em->persist($crowd);
+                         $em->flush();
+                         return $this->redirect($this->generateUrl('crowd-list'));
+                     }
+                 }
+
+         FORM Valid
+         # AppBundle/Resources/config/validation.yml
+         AppBundle/Entity/Type:
+           properties:
+             code:
+               - NotBlank: ~
+             name:
+               - NotBlank: ~
+
+         内建表单项类型
+         Symfony2标配了大量的表单项类型，它涵盖了所有的常见表单项以及你所遇到的数据类型：
+         文本表单项
+         text
+         textarea
+         email
+         integer
+         money
+         number
+         password
+         percent
+         search
+         url
+         选择表单项
+         choice
+         entity
+         country
+         language
+         locale
+         timezone
+         日期和时间表单项
+         date
+         datetime
+         time
+         birthday
+         其它表单项
+         checkbox
+         file
+         radio
+         表单项组
+         collection
+         repeated
+         隐藏表单项
+         hidden
+         csrf
+         基础表单项
+         field
+         form
+
+
+
+
     14.var_dump()
         1)
         use Doctrine\Common\Util\Debug;
