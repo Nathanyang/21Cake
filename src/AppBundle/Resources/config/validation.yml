@@ -1,0 +1,7 @@
+# AppBundle/Resources/config/validation.yml
+AppBundle/Entity/Type:
+  properties:
+    code:
+      - NotBlank: ~
+    name:
+      - NotBlank: ~

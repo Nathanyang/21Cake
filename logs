@@ -1,0 +1,425 @@
+[12-Mar-2015 16:47:33] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:47:33] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:47:33] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:47:33] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:47:33] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:47:33] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:47:33] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:47:33] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:47:33] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:47:34] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:47:34] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:47:34] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:47:34] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:47:34] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:47:34] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:47:34] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:47:34] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:47:34] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:47:34] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:47:34] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:47:34] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:47:34] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:47:34] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:47:34] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:47:34] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:47:34] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:47:34] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:57:38] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:57:38] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:57:38] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:57:38] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:57:38] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:57:38] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:57:38] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:57:38] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:57:38] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:57:39] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:57:39] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:57:39] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:57:39] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:57:39] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:57:39] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:57:39] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:57:39] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:57:39] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:13] PHP Notice:  Undefined variable: tixqty_normal in /home/cliquecl/public_html/springbreak2015/paypal.php on line 66
+[12-Mar-2015 16:58:13] PHP Notice:  Undefined variable: email in /home/cliquecl/public_html/springbreak2015/paypal.php on line 71
+[12-Mar-2015 16:58:13] PHP Notice:  Undefined variable: fn in /home/cliquecl/public_html/springbreak2015/paypal.php on line 88
+[12-Mar-2015 16:58:13] PHP Notice:  Undefined variable: ln in /home/cliquecl/public_html/springbreak2015/paypal.php on line 88
+[12-Mar-2015 16:58:13] PHP Notice:  Undefined variable: nric in /home/cliquecl/public_html/springbreak2015/paypal.php on line 94
+[12-Mar-2015 16:58:13] PHP Notice:  Undefined variable: email in /home/cliquecl/public_html/springbreak2015/paypal.php on line 100
+[12-Mar-2015 16:58:13] PHP Notice:  Undefined variable: phone in /home/cliquecl/public_html/springbreak2015/paypal.php on line 106
+[12-Mar-2015 16:58:13] PHP Notice:  Undefined variable: tixqty_normal in /home/cliquecl/public_html/springbreak2015/paypal.php on line 66
+[12-Mar-2015 16:58:13] PHP Notice:  Undefined variable: email in /home/cliquecl/public_html/springbreak2015/paypal.php on line 71
+[12-Mar-2015 16:58:13] PHP Notice:  Undefined variable: fn in /home/cliquecl/public_html/springbreak2015/paypal.php on line 88
+[12-Mar-2015 16:58:13] PHP Notice:  Undefined variable: ln in /home/cliquecl/public_html/springbreak2015/paypal.php on line 88
+[12-Mar-2015 16:58:13] PHP Notice:  Undefined variable: nric in /home/cliquecl/public_html/springbreak2015/paypal.php on line 94
+[12-Mar-2015 16:58:13] PHP Notice:  Undefined variable: email in /home/cliquecl/public_html/springbreak2015/paypal.php on line 100
+[12-Mar-2015 16:58:13] PHP Notice:  Undefined variable: phone in /home/cliquecl/public_html/springbreak2015/paypal.php on line 106
+[12-Mar-2015 16:58:13] PHP Notice:  Undefined variable: gender in /home/cliquecl/public_html/springbreak2015/paypal.php on line 112
+[12-Mar-2015 16:58:13] PHP Notice:  Undefined variable: ms in /home/cliquecl/public_html/springbreak2015/paypal.php on line 119
+[12-Mar-2015 16:58:13] PHP Notice:  Undefined variable: ms in /home/cliquecl/public_html/springbreak2015/paypal.php on line 122
+[12-Mar-2015 16:58:13] PHP Notice:  Undefined variable: ms in /home/cliquecl/public_html/springbreak2015/paypal.php on line 125
+[12-Mar-2015 16:58:13] PHP Notice:  Undefined variable: ms in /home/cliquecl/public_html/springbreak2015/paypal.php on line 128
+[12-Mar-2015 16:58:13] PHP Notice:  Undefined variable: tixqty_normal in /home/cliquecl/public_html/springbreak2015/paypal.php on line 141
+[12-Mar-2015 16:58:13] PHP Notice:  Undefined variable: tixcost in /home/cliquecl/public_html/springbreak2015/paypal.php on line 148
+[12-Mar-2015 16:58:13] PHP Notice:  Undefined variable: tixqty_normal in /home/cliquecl/public_html/springbreak2015/paypal.php on line 148
+[12-Mar-2015 16:58:13] PHP Notice:  Undefined variable: tixcost in /home/cliquecl/public_html/springbreak2015/paypal.php on line 174
+[12-Mar-2015 16:58:13] PHP Notice:  Undefined variable: email in /home/cliquecl/public_html/springbreak2015/paypal.php on line 176
+[12-Mar-2015 16:58:13] PHP Notice:  Undefined variable: tixqty_normal in /home/cliquecl/public_html/springbreak2015/paypal.php on line 176
+[12-Mar-2015 16:58:13] PHP Notice:  Undefined variable: tixcost in /home/cliquecl/public_html/springbreak2015/paypal.php on line 176
+[12-Mar-2015 16:58:45] PHP Notice:  A session had already been started - ignoring session_start() in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 8
+[12-Mar-2015 16:58:45] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:45] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:45] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:45] PHP Notice:  Undefined variable: arr in /home/cliquecl/public_html/springbreak2015/inc/db.inc on line 198
+[12-Mar-2015 16:58:45] PHP Notice:  Undefined variable: arr in /home/cliquecl/public_html/springbreak2015/inc/db.inc on line 198
+[12-Mar-2015 16:58:45] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:45] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:45] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:45] PHP Notice:  Undefined variable: arr in /home/cliquecl/public_html/springbreak2015/inc/db.inc on line 198
+[12-Mar-2015 16:58:45] PHP Warning:  hash() expects at least 2 parameters, 1 given in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 170
+[12-Mar-2015 16:58:45] PHP Notice:  Undefined variable: nohead in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 311
+[12-Mar-2015 16:58:46] PHP Notice:  A session had already been started - ignoring session_start() in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 8
+[12-Mar-2015 16:58:46] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 11
+[12-Mar-2015 16:58:46] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:46] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:46] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:46] PHP Notice:  Undefined variable: arr in /home/cliquecl/public_html/springbreak2015/inc/db.inc on line 198
+[12-Mar-2015 16:58:46] PHP Notice:  Undefined variable: arr in /home/cliquecl/public_html/springbreak2015/inc/db.inc on line 198
+[12-Mar-2015 16:58:46] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:46] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:46] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:46] PHP Notice:  Undefined variable: arr in /home/cliquecl/public_html/springbreak2015/inc/db.inc on line 198
+[12-Mar-2015 16:58:46] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 170
+[12-Mar-2015 16:58:46] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 170
+[12-Mar-2015 16:58:46] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 170
+[12-Mar-2015 16:58:46] PHP Warning:  hash() expects at least 2 parameters, 1 given in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 170
+[12-Mar-2015 16:58:46] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 175
+[12-Mar-2015 16:58:46] PHP Notice:  Undefined variable: nohead in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 311
+[12-Mar-2015 16:58:46] PHP Notice:  A session had already been started - ignoring session_start() in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 8
+[12-Mar-2015 16:58:46] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 11
+[12-Mar-2015 16:58:46] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:46] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:46] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:46] PHP Notice:  Undefined variable: arr in /home/cliquecl/public_html/springbreak2015/inc/db.inc on line 198
+[12-Mar-2015 16:58:46] PHP Notice:  Undefined variable: arr in /home/cliquecl/public_html/springbreak2015/inc/db.inc on line 198
+[12-Mar-2015 16:58:46] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:46] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:46] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:46] PHP Notice:  Undefined variable: arr in /home/cliquecl/public_html/springbreak2015/inc/db.inc on line 198
+[12-Mar-2015 16:58:46] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 170
+[12-Mar-2015 16:58:46] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 170
+[12-Mar-2015 16:58:46] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 170
+[12-Mar-2015 16:58:46] PHP Warning:  hash() expects at least 2 parameters, 1 given in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 170
+[12-Mar-2015 16:58:46] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 175
+[12-Mar-2015 16:58:46] PHP Notice:  Undefined variable: nohead in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 311
+[12-Mar-2015 16:58:47] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:47] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:47] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:47] PHP Notice:  Undefined variable: header in /home/cliquecl/public_html/springbreak2015/ipnresponse.php on line 17
+[12-Mar-2015 16:58:48] PHP Notice:  Undefined variable: res in /home/cliquecl/public_html/springbreak2015/ipnresponse.php on line 41
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Notice:  Undefined variable: res in /home/cliquecl/public_html/springbreak2015/ipnresponse.php on line 42
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Notice:  Use of undefined constant txn_id - assumed 'txn_id' in /home/cliquecl/public_html/springbreak2015/ipnresponse.php on line 80
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Notice:  Use of undefined constant txn_id - assumed 'txn_id' in /home/cliquecl/public_html/springbreak2015/ipnresponse.php on line 80
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Notice:  Use of undefined constant txn_id - assumed 'txn_id' in /home/cliquecl/public_html/springbreak2015/ipnresponse.php on line 80
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Notice:  Use of undefined constant txn_id - assumed 'txn_id' in /home/cliquecl/public_html/springbreak2015/ipnresponse.php on line 80
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Notice:  Use of undefined constant txn_id - assumed 'txn_id' in /home/cliquecl/public_html/springbreak2015/ipnresponse.php on line 80
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Notice:  Use of undefined constant txn_id - assumed 'txn_id' in /home/cliquecl/public_html/springbreak2015/ipnresponse.php on line 80
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Notice:  Use of undefined constant txn_id - assumed 'txn_id' in /home/cliquecl/public_html/springbreak2015/ipnresponse.php on line 80
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Notice:  Use of undefined constant txn_id - assumed 'txn_id' in /home/cliquecl/public_html/springbreak2015/ipnresponse.php on line 80
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Notice:  Use of undefined constant txn_id - assumed 'txn_id' in /home/cliquecl/public_html/springbreak2015/ipnresponse.php on line 80
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Notice:  Use of undefined constant txn_id - assumed 'txn_id' in /home/cliquecl/public_html/springbreak2015/ipnresponse.php on line 80
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Notice:  Use of undefined constant txn_id - assumed 'txn_id' in /home/cliquecl/public_html/springbreak2015/ipnresponse.php on line 80
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Notice:  Undefined variable: arr in /home/cliquecl/public_html/springbreak2015/inc/db.inc on line 198
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:58:48] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:58:48] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:58:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:59:27] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:59:27] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:59:27] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:59:27] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:59:27] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:59:27] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:59:27] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:59:27] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:59:27] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:59:27] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:59:27] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:59:27] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:59:27] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:59:27] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:59:27] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 16:59:27] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 16:59:27] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 16:59:27] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:01:40] PHP Notice:  A session had already been started - ignoring session_start() in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 8
+[12-Mar-2015 17:01:40] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 11
+[12-Mar-2015 17:01:40] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:01:40] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:01:40] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:01:40] PHP Notice:  Undefined variable: arr in /home/cliquecl/public_html/springbreak2015/inc/db.inc on line 198
+[12-Mar-2015 17:01:40] PHP Notice:  Undefined variable: arr in /home/cliquecl/public_html/springbreak2015/inc/db.inc on line 198
+[12-Mar-2015 17:01:40] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:01:40] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:01:40] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:01:40] PHP Notice:  Undefined variable: arr in /home/cliquecl/public_html/springbreak2015/inc/db.inc on line 198
+[12-Mar-2015 17:01:40] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 170
+[12-Mar-2015 17:01:40] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 170
+[12-Mar-2015 17:01:40] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 170
+[12-Mar-2015 17:01:40] PHP Warning:  hash() expects at least 2 parameters, 1 given in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 170
+[12-Mar-2015 17:01:40] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 175
+[12-Mar-2015 17:01:40] PHP Notice:  Undefined variable: nohead in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 311
+[12-Mar-2015 17:01:40] PHP Notice:  A session had already been started - ignoring session_start() in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 8
+[12-Mar-2015 17:01:40] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 11
+[12-Mar-2015 17:01:40] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:01:40] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:01:40] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:01:40] PHP Notice:  Undefined variable: arr in /home/cliquecl/public_html/springbreak2015/inc/db.inc on line 198
+[12-Mar-2015 17:01:40] PHP Notice:  Undefined variable: arr in /home/cliquecl/public_html/springbreak2015/inc/db.inc on line 198
+[12-Mar-2015 17:01:40] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:01:40] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:01:40] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:01:40] PHP Notice:  Undefined variable: arr in /home/cliquecl/public_html/springbreak2015/inc/db.inc on line 198
+[12-Mar-2015 17:01:40] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 170
+[12-Mar-2015 17:01:40] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 170
+[12-Mar-2015 17:01:40] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 170
+[12-Mar-2015 17:01:40] PHP Warning:  hash() expects at least 2 parameters, 1 given in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 170
+[12-Mar-2015 17:01:40] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 175
+[12-Mar-2015 17:01:40] PHP Notice:  Undefined variable: nohead in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 311
+[12-Mar-2015 17:02:32] PHP Notice:  A session had already been started - ignoring session_start() in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 8
+[12-Mar-2015 17:02:32] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 11
+[12-Mar-2015 17:02:32] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:02:32] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:02:32] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:02:32] PHP Notice:  Undefined variable: arr in /home/cliquecl/public_html/springbreak2015/inc/db.inc on line 198
+[12-Mar-2015 17:02:32] PHP Notice:  Undefined variable: arr in /home/cliquecl/public_html/springbreak2015/inc/db.inc on line 198
+[12-Mar-2015 17:02:32] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:02:32] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:02:32] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:02:32] PHP Notice:  Undefined variable: arr in /home/cliquecl/public_html/springbreak2015/inc/db.inc on line 198
+[12-Mar-2015 17:02:32] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 170
+[12-Mar-2015 17:02:32] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 170
+[12-Mar-2015 17:02:32] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 170
+[12-Mar-2015 17:02:32] PHP Warning:  hash() expects at least 2 parameters, 1 given in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 170
+[12-Mar-2015 17:02:32] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 175
+[12-Mar-2015 17:02:32] PHP Notice:  Undefined variable: nohead in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 311
+[12-Mar-2015 17:02:32] PHP Notice:  A session had already been started - ignoring session_start() in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 8
+[12-Mar-2015 17:02:32] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 11
+[12-Mar-2015 17:02:32] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:02:32] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:02:32] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:02:32] PHP Notice:  Undefined variable: arr in /home/cliquecl/public_html/springbreak2015/inc/db.inc on line 198
+[12-Mar-2015 17:02:32] PHP Notice:  Undefined variable: arr in /home/cliquecl/public_html/springbreak2015/inc/db.inc on line 198
+[12-Mar-2015 17:02:32] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:02:32] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:02:32] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:02:32] PHP Notice:  Undefined variable: arr in /home/cliquecl/public_html/springbreak2015/inc/db.inc on line 198
+[12-Mar-2015 17:02:32] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 170
+[12-Mar-2015 17:02:32] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 170
+[12-Mar-2015 17:02:32] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 170
+[12-Mar-2015 17:02:32] PHP Warning:  hash() expects at least 2 parameters, 1 given in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 170
+[12-Mar-2015 17:02:32] PHP Notice:  Undefined variable: em in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 175
+[12-Mar-2015 17:02:32] PHP Notice:  Undefined variable: nohead in /home/cliquecl/public_html/springbreak2015/thankyou.php on line 311
+[12-Mar-2015 17:03:18] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:18] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:18] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:18] PHP Notice:  Undefined variable: header in /home/cliquecl/public_html/springbreak2015/ipnresponse.php on line 17
+[12-Mar-2015 17:03:18] PHP Notice:  Undefined variable: res in /home/cliquecl/public_html/springbreak2015/ipnresponse.php on line 41
+[12-Mar-2015 17:03:18] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:18] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:18] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:18] PHP Notice:  Undefined variable: res in /home/cliquecl/public_html/springbreak2015/ipnresponse.php on line 42
+[12-Mar-2015 17:03:18] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:18] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:18] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:18] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:18] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:18] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:20] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:20] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:20] PHP Notice:  Use of undefined constant txn_id - assumed 'txn_id' in /home/cliquecl/public_html/springbreak2015/ipnresponse.php on line 80
+[12-Mar-2015 17:03:20] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:20] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:20] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:20] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:20] PHP Notice:  Use of undefined constant txn_id - assumed 'txn_id' in /home/cliquecl/public_html/springbreak2015/ipnresponse.php on line 80
+[12-Mar-2015 17:03:20] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:20] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:20] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:20] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:20] PHP Notice:  Use of undefined constant txn_id - assumed 'txn_id' in /home/cliquecl/public_html/springbreak2015/ipnresponse.php on line 80
+[12-Mar-2015 17:03:20] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:20] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:20] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:20] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:20] PHP Notice:  Use of undefined constant txn_id - assumed 'txn_id' in /home/cliquecl/public_html/springbreak2015/ipnresponse.php on line 80
+[12-Mar-2015 17:03:20] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:20] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:20] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:20] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:20] PHP Notice:  Use of undefined constant txn_id - assumed 'txn_id' in /home/cliquecl/public_html/springbreak2015/ipnresponse.php on line 80
+[12-Mar-2015 17:03:20] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:20] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:20] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:20] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:20] PHP Notice:  Use of undefined constant txn_id - assumed 'txn_id' in /home/cliquecl/public_html/springbreak2015/ipnresponse.php on line 80
+[12-Mar-2015 17:03:20] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:20] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:20] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:20] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:20] PHP Notice:  Use of undefined constant txn_id - assumed 'txn_id' in /home/cliquecl/public_html/springbreak2015/ipnresponse.php on line 80
+[12-Mar-2015 17:03:20] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:20] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:20] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:20] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:20] PHP Notice:  Use of undefined constant txn_id - assumed 'txn_id' in /home/cliquecl/public_html/springbreak2015/ipnresponse.php on line 80
+[12-Mar-2015 17:03:20] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:20] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:20] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:20] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:20] PHP Notice:  Use of undefined constant txn_id - assumed 'txn_id' in /home/cliquecl/public_html/springbreak2015/ipnresponse.php on line 80
+[12-Mar-2015 17:03:20] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:20] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:20] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:20] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:20] PHP Notice:  Use of undefined constant txn_id - assumed 'txn_id' in /home/cliquecl/public_html/springbreak2015/ipnresponse.php on line 80
+[12-Mar-2015 17:03:20] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:20] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:20] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:20] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:20] PHP Notice:  Use of undefined constant txn_id - assumed 'txn_id' in /home/cliquecl/public_html/springbreak2015/ipnresponse.php on line 80
+[12-Mar-2015 17:03:20] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:20] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:20] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:20] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:20] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:20] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:20] PHP Notice:  Undefined variable: arr in /home/cliquecl/public_html/springbreak2015/inc/db.inc on line 198
+[12-Mar-2015 17:03:20] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:20] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:20] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:20] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
+[12-Mar-2015 17:03:20] PHP Warning:  fopen(log_files/ipnlog.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 10
+[12-Mar-2015 17:03:20] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 12
+[12-Mar-2015 17:03:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/cliquecl/public_html/springbreak2015/inc/payment.inc on line 13
