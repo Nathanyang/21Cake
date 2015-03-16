@@ -35,10 +35,10 @@ class AdminController extends Controller {
     /**
      * @Route("/", name="admin-login")
      * Template("AppBundle:Admin:login.html.twig")
-     * @Template()
      */
     public function loginAction(){
-        return array();
+//        return array();
+        return $this->render('AppBundle:Admin:login.html.twig', array());
     }
 
     /**
@@ -59,6 +59,7 @@ class AdminController extends Controller {
                 return $this->redirect( $this->generateUrl('admin-list') );
             }
         }
+
         return array(
             'form' => $form->createView(),
         );
